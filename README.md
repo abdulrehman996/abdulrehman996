@@ -24,6 +24,8 @@
 
 ## 📈 GitHub Stats:
 ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrehman996&show_icons=true&theme=radical)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdulrehman996.abdulrehman996)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman996&layout=compact)
 
 ---
 
