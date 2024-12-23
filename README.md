@@ -36,7 +36,7 @@
 **Monitoring & Logging**  
 <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
 <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-<img src="https://img.shields.io/badge/-ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK Stack" />
+<img src="https://img.shields.io/badge/-ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK " />
 
 ---
 
