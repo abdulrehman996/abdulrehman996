@@ -30,6 +30,5 @@
 ---
 
 ## 🌍 Let's Connect:
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-- 📧 Email: [YOUR_EMAIL]
-- 🌐 [Portfolio](https://YOUR_PORTFOLIO_LINK)
+- 💼 [LinkedIn](https://linkedin.com/in/rehmanjaffar)
+- 📧 Email: [abdurrehman9968@gmail.com]
